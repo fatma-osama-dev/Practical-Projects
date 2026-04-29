@@ -1,0 +1,14 @@
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\bin\Debug\net8.0\Student Grade System.exe
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\bin\Debug\net8.0\Student Grade System.deps.json
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\bin\Debug\net8.0\Student Grade System.runtimeconfig.json
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\bin\Debug\net8.0\Student Grade System.dll
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\bin\Debug\net8.0\Student Grade System.pdb
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.AssemblyInfoInputs.cache
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.AssemblyInfo.cs
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.csproj.CoreCompileInputs.cache
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.dll
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\refint\Student Grade System.dll
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.pdb
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\Student Grade System.genruntimeconfig.cache
+C:\Users\tamta\source\repos\Student Grade System\Student Grade System\obj\Debug\net8.0\ref\Student Grade System.dll
