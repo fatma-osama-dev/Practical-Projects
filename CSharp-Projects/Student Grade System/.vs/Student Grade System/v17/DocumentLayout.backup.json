@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamta\\source\\repos\\CSharp-Projects\\Student Grade System\\Student-Grade-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A034F62C-5AA8-43D8-A2F0-ADB7CCB3DE64}|Student Grade System\\Student Grade System.csproj|c:\\users\\tamta\\source\\repos\\csharp-projects\\student grade system\\student-grade-system\\student grade system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034F62C-5AA8-43D8-A2F0-ADB7CCB3DE64}|Student Grade System\\Student Grade System.csproj|solutionrelative:student grade system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A034F62C-5AA8-43D8-A2F0-ADB7CCB3DE64}|Student Grade System\\Student Grade System.csproj|c:\\users\\tamta\\source\\repos\\csharp-projects\\student grade system\\student-grade-system\\student grade system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A034F62C-5AA8-43D8-A2F0-ADB7CCB3DE64}|Student Grade System\\Student Grade System.csproj|solutionrelative:student grade system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tamta\\source\\repos\\CSharp-Projects\\Student Grade System\\Student-Grade-System\\Student Grade System\\Program.cs",
+              "RelativeDocumentMoniker": "Student Grade System\\Program.cs",
+              "ToolTip": "C:\\Users\\tamta\\source\\repos\\CSharp-Projects\\Student Grade System\\Student-Grade-System\\Student Grade System\\Program.cs",
+              "RelativeToolTip": "Student Grade System\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:15:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\tamta\\source\\repos\\CSharp-Projects\\Student Grade System\\Student-Grade-System\\Student Grade System\\Student.cs",
+              "RelativeDocumentMoniker": "Student Grade System\\Student.cs",
+              "ToolTip": "C:\\Users\\tamta\\source\\repos\\CSharp-Projects\\Student Grade System\\Student-Grade-System\\Student Grade System\\Student.cs",
+              "RelativeToolTip": "Student Grade System\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:15:09.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
